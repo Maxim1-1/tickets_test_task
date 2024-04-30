@@ -1,0 +1,109 @@
+{
+  "data": "16.05.2024",
+  "origin": "Vladivostok",
+  "destination": "Tel-Aviv",
+  "agents": [
+    {
+      "id": "1",
+      "name": "Azimuth",
+      "flights": [
+        {
+          "origin": "Vladivostok",
+          "destination": "Moscow",
+          "duration": 530,
+          "data": "16.05.2024 8:40"
+        },
+        {
+          "origin": "Moscow",
+          "destination": "Sochi",
+          "duration": 220,
+          "data": "16.05.2024 16:40"
+        },
+        {
+          "origin": "Sochi",
+          "destination": "Tel-Aviv",
+          "data": "17.05.2024 7:00",
+          "duration": 180
+        }
+      ],
+      "price": 45559
+    },
+    {
+      "id": "2",
+      "name": "Aeroflot",
+      "flights": [
+        {
+          "origin": "Vladivostok",
+          "destination": "Novosibirsk",
+          "data": "16.05.2024 8:50",
+          "duration": 480
+        },
+        {
+          "origin": "Novosibirsk",
+          "destination": "Sochi",
+          "data": "16.05.2024 12:45",
+          "duration": 310
+        },
+        {
+          "origin": "Sochi",
+          "destination": "Tel-Aviv",
+          "data": "16.05.2024 17:00",
+          "duration": 160
+        }
+      ],
+      "price": 54692
+    },
+    {
+      "id": "3",
+      "name": "S7 Airlines",
+      "flights": [
+        {
+          "origin": "Vladivostok",
+          "destination": "Moscow",
+          "data": "16.05.2024 13:40",
+          "duration": 530
+        },
+        {
+          "origin": "Moscow",
+          "destination": "Sochi",
+          "data": "16.05.2024 16:40",
+          "duration": 220
+        },
+        {
+          "origin": "Sochi",
+          "destination": "Tel-Aviv",
+          "data": "17.05.2024 7:00",
+          "duration": 180
+        }
+      ],
+      "price": 47540
+    },
+    {
+      "id": "4",
+      "name": "Ural Airlines",
+      "flights": [
+        {
+          "origin": "Vladivostok",
+          "destination": "Yekaterinburg",
+          "data": "16.05.2024 13:40",
+          "duration": 445
+        },
+        {
+          "origin": "Yekaterinburg",
+          "destination": "Sochi",
+          "data": "16.05.2024 17:00",
+          "duration": 230
+        },
+        {
+          "origin": "Sochi",
+          "destination": "Tel-Aviv",
+          "data": "17.05.2024 7:00",
+          "duration": 175
+        }
+      ],
+      "price": 49939
+    }
+  ]
+}
+
+
